@@ -1,0 +1,15 @@
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Debug\net8.0\FactoryTalk.Security.Interop.dll
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Debug\net8.0\FtspAdapter.exe
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Debug\net8.0\LogixEcho_ClassLibrary.deps.json
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Debug\net8.0\LogixEcho_ClassLibrary.dll
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\bin\Debug\net8.0\LogixEcho_ClassLibrary.pdb
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\LogixEcho_ClassLibrary.csproj.AssemblyReference.cache
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\LogixEcho_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\LogixEcho_ClassLibrary.AssemblyInfoInputs.cache
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\LogixEcho_ClassLibrary.AssemblyInfo.cs
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\LogixEcho_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\LogixEcho_ClassLibrary.sourcelink.json
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\LogixEcho_ClassLibrary.dll
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\refint\LogixEcho_ClassLibrary.dll
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\LogixEcho_ClassLibrary.pdb
+C:\git-repos\ra-logix-cicd\2-cicd-config\1-ci-teststage\2-ci-unittestscript\LogixEcho_ClassLibrary\obj\Debug\net8.0\ref\LogixEcho_ClassLibrary.dll

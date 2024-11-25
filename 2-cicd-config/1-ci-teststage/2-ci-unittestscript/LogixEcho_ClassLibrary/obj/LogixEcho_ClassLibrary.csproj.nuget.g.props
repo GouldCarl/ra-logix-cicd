@@ -4,16 +4,16 @@
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
-    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ASYost\.nuget\packages\</NuGetPackageFolders>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\sysadmin\.nuget\packages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\ASYost\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\sysadmin\.nuget\packages\" />
   </ItemGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <None Include="$(NuGetPackageRoot)rockwellautomation.factorytalklogixecho.api.client\3.0.1130\contentFiles\any\any\FtspAdapter\FactoryTalk.Security.Interop.dll" Condition="Exists('$(NuGetPackageRoot)rockwellautomation.factorytalklogixecho.api.client\3.0.1130\contentFiles\any\any\FtspAdapter\FactoryTalk.Security.Interop.dll')">
+    <None Include="$(NuGetPackageRoot)\rockwellautomation.factorytalklogixecho.api.client\3.0.1130\contentFiles\any\any\FtspAdapter\FactoryTalk.Security.Interop.dll" Condition="Exists('$(NuGetPackageRoot)\rockwellautomation.factorytalklogixecho.api.client\3.0.1130\contentFiles\any\any\FtspAdapter\FactoryTalk.Security.Interop.dll')">
       <NuGetPackageId>RockwellAutomation.FactoryTalkLogixEcho.Api.Client</NuGetPackageId>
       <NuGetPackageVersion>3.0.1130</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>
@@ -23,7 +23,7 @@
       <Private>True</Private>
       <Link>FtspAdapter\FactoryTalk.Security.Interop.dll</Link>
     </None>
-    <None Include="$(NuGetPackageRoot)rockwellautomation.factorytalklogixecho.api.client\3.0.1130\contentFiles\any\any\FtspAdapter\FtspAdapter.exe" Condition="Exists('$(NuGetPackageRoot)rockwellautomation.factorytalklogixecho.api.client\3.0.1130\contentFiles\any\any\FtspAdapter\FtspAdapter.exe')">
+    <None Include="$(NuGetPackageRoot)\rockwellautomation.factorytalklogixecho.api.client\3.0.1130\contentFiles\any\any\FtspAdapter\FtspAdapter.exe" Condition="Exists('$(NuGetPackageRoot)\rockwellautomation.factorytalklogixecho.api.client\3.0.1130\contentFiles\any\any\FtspAdapter\FtspAdapter.exe')">
       <NuGetPackageId>RockwellAutomation.FactoryTalkLogixEcho.Api.Client</NuGetPackageId>
       <NuGetPackageVersion>3.0.1130</NuGetPackageVersion>
       <NuGetItemType>None</NuGetItemType>

@@ -1,33 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {}
+    "C:\\git-repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
+    "C:\\git-repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+        "projectUniqueName": "C:\\git-repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
         "projectName": "LogixEcho_ClassLibrary",
-        "projectPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\ASYost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASYost\\Desktop\\RA_CICD_FINAL\\ra-cicd-test6\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\obj\\",
+        "projectPath": "C:\\git-repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\LogixEcho_ClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\sysadmin\\.nuget\\packages",
+        "outputPath": "C:\\git-repos\\ra-logix-cicd\\2-cicd-config\\1-ci-teststage\\2-ci-unittestscript\\LogixEcho_ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASYost\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\sysadmin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files (x86)\\Rockwell Automation SDKs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "RockwellAutomation.FactoryTalkLogixEcho.Api.Client": {
               "target": "Package",
@@ -63,11 +61,14 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

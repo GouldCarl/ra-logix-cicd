@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="RockwellAutomation.FactoryTalkLogixEcho.Api.Client" Version="3.0.1130" />
+    <PackageReference Include="RockwellAutomation.FactoryTalkLogixEcho.Api.Client" Version="Unknown" />
   </ItemGroup>
 
 </Project>
